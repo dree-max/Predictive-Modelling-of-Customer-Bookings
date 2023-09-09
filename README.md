@@ -23,7 +23,7 @@ While our model shows promise, there is room for improvement to enhance its pred
 
 - `predictive_model.ipynb`: This Jupyter notebook contains the code and documentation for the predictive modeling task. Feel free to explore and adapt it to your specific needs.
 
-- `data/`: This directory houses the dataset used for the project. You can find the raw data and any preprocessed datasets here.
+- `data2/`: This directory houses the dataset used for the project. You can find the raw data and any preprocessed datasets here.
 
 - `results/`: This directory stores the model evaluation results, including metrics, charts, and any insights gained from the analysis.
 
