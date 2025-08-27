@@ -1,6 +1,6 @@
 # Predictive Modelling of Customer Bookings
 
-A comprehensive machine learning project focused on predicting customer booking behavior using advanced data analytics and predictive modeling techniques.
+A machine learning project focused on predicting customer booking behavior using advanced data analytics and predictive modeling techniques.
 
 ## Project Overview
 
